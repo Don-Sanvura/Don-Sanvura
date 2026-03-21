@@ -31,3 +31,5 @@
 | Research conduction  <br>
 | Website Deployment   <br>
 | GIt_Hub_Active  <br>
+
+![snake gif](https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg)
