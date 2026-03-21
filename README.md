@@ -21,6 +21,7 @@
 
 <hr><p align="center">high-level AI & ground-level environmental impact.</p><hr>
 
+![snake gif](https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg)
 
 <h1>SKills set</h1>
 
@@ -32,4 +33,4 @@
 | Website Deployment   <br>
 | GIt_Hub_Active  <br>
 
-![snake gif](https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg)
+
