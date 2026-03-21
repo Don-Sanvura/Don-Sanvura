@@ -8,10 +8,12 @@
 
 
 (❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
--Aspiring  Software Engineer [Final-YEAR] 
+<p align="center">
+Aspiring  Software Engineer [Final-YEAR] 
+</p>
 
 ----
-<p>
+
  -AIM: Focuss on providing solutions and focused on building a better easier enviroment 
 </p>
 
