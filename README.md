@@ -2,8 +2,6 @@ Here’s a polished, creatively advanced version that reframes your original con
 
 ---
 
-## Elevate Your GitHub Presence  
-### *From clean to cinematic — an engineer’s signature.*
 
 To achieve a **high‑end engineer aesthetic**, your README should do more than inform—it should impress. Leveraging **SVG dynamic icons**, **GitHub Readme Stats**, and **custom CSS‑like animations** (via shields and animated assets), you can create a living portfolio that reflects your technical sophistication.
 
