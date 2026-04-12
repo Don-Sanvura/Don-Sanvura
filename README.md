@@ -77,7 +77,9 @@ Aspiring  Software Engineer [Final-YEAR]
 <details>
   <summary>Featured-Projects</summary>
   <br/>
-
+<div align="center">
+<img src="src/reactIG.gif" style="max-width: 100%;" alt="" />
+</div>
   <table>
 <tr>
 <td width="50%" valign="top">
