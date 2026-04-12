@@ -73,3 +73,66 @@ Aspiring  Software Engineer [Final-YEAR]
 ---
 <br/>
 
+<details>
+  <summary>Featured-Projects</summary>
+  <br/>
+
+  <table>
+<tr>
+<td width="50%" valign="top">
+
+### Bank Customer Churn & CLV Prediction
+Ensemble ML pipeline predicting churn and customer lifetime value across 50k+ records, with SHAP explainability.
+
+`Python` `Scikit-learn` `SHAP` `Plotly` `KMeans`
+
+</td>
+<td width="50%" valign="top">
+
+### Credit Risk & Financial Behavior Analysis
+Tableau dashboards combining credit demographics and transaction data to identify risk drivers and segment customers.
+
+`Tableau` `Excel` `Feature Engineering` `Risk Analytics`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Comparative Stock Dashboard *(In Progress)*
+Power BI dashboard visualizing 3 years of stock trends, trading volume, and volatility for Amazon and JPMorgan.
+
+`Power BI` `DAX` `Financial Data` `Visual Storytelling`
+
+</td>
+<td width="50%" valign="top">
+
+### Hospital Record Management System
+Secure C# console app with OOP design, AES encryption, RBAC, and custom threading for hospital operations.
+
+`C#` `.NET` `AES Encryption` `RBAC` `OOP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Soyez Jolie Salon Database System
+Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
+
+`SQL Server` `T-SQL` `3NF` `Stored Procedures` `Triggers`
+
+</td>
+<td width="50%" valign="top">
+
+### NewCo Campaign Performance Analysis
+Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
+
+`Excel` `Pivot Tables` `Slicers` `PowerPoint`
+
+</td>
+</tr>
+</table>
+
+---
+<br/>
