@@ -13,6 +13,11 @@
 
 
 (❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
+
+<div align="center">
+<img src="src/krishlalwani.gif" style="max-width: 100%;" alt=""/>
+</div>
+
 <p align="center">
 Aspiring  Software Engineer [Final-YEAR] 
 </p>
