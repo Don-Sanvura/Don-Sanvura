@@ -71,6 +71,7 @@ Aspiring  Software Engineer [Final-YEAR]
 ![3NF Design](https://img.shields.io/badge/Database_Design_(3NF)-0C447C?style=flat)
 
 ---
+</details>
 <br/>
 
 <details>
@@ -135,4 +136,11 @@ Excel pivot analysis of 501 customer interactions across 3 channels, identifying
 </table>
 
 ---
+</details>
+<br/>
+
+<img src="src/dino.gif">
+
+Do you wanna play the [Dino game](https://krishealty.github.io/T-Rex-runner/)?
+
 <br/>
