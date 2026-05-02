@@ -74,8 +74,9 @@ Aspiring  Software Engineer [Final-YEAR]
 </details>
 <br/>
 
-<details>
-  <summary>Featured-Projects</summary>
+---
+ ### Featured-Projects
+---
   <br/>
 <div align="center">
 <img src="src/reactIG.gif" style="max-width: 100%;" alt="" />
@@ -84,18 +85,20 @@ Aspiring  Software Engineer [Final-YEAR]
 <tr>
 <td width="50%" valign="top">
 
-### Bank Customer Churn & CLV Prediction
-Ensemble ML pipeline predicting churn and customer lifetime value across 50k+ records, with SHAP explainability.
+### Reporting System
+BC WildWatch is a smart campus safety platform that enables students to report dangerous or nuisance animal sightings in real time. The system transforms a classroom prototype into a scalable, web-based application using modern technologies and free-tier tools.
 
-`Python` `Scikit-learn` `SHAP` `Plotly` `KMeans`
+`FrontEnd: React / JavaScript / HTML / CSS` 
+`BackEnd: Node.js / Express` 
 
 </td>
 <td width="50%" valign="top">
 
-### Credit Risk & Financial Behavior Analysis
-Tableau dashboards combining credit demographics and transaction data to identify risk drivers and segment customers.
+### Data-Visualization-using-Python
+Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends, and correlations that might not otherwise be detected can be exposed.
 
 `Tableau` `Excel` `Feature Engineering` `Risk Analytics`
+`Python` `Jupyter Tools: Matplotlib, Seaborn, Pandas`
 
 </td>
 </tr>
@@ -110,35 +113,38 @@ Power BI dashboard visualizing 3 years of stock trends, trading volume, and vola
 </td>
 <td width="50%" valign="top">
 
-### Hospital Record Management System
-Secure C# console app with OOP design, AES encryption, RBAC, and custom threading for hospital operations.
+###  Sales Forecasting: Predictive Analytics
+This end-to-end pipeline analyzes past sales patterns to estimate future demand. By transforming raw transactional records into time-series insights, we provide a roadmap for business efficiency.
 
-`C#` `.NET` `AES Encryption` `RBAC` `OOP`
+`Category`	`Tools`
+`Language`	`Python`
+`Data Handling`	`Pandas, NumPy`
+`ML Engine`	`Scikit-Learn` `(Linear Regression)`
+`Visualization`	`Matplotlib`, `Seaborn`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Soyez Jolie Salon Database System
-Relational SQL Server database in 3NF with stored procedures, triggers, and audit logging for a Johannesburg salon.
-
-`SQL Server` `T-SQL` `3NF` `Stored Procedures` `Triggers`
+### Vechile Prices
+Display, load, cleaning , training models, data visualization
+`Neural Network`
 
 </td>
 <td width="50%" valign="top">
 
-### NewCo Campaign Performance Analysis
-Excel pivot analysis of 501 customer interactions across 3 channels, identifying the best campaign + channel combo.
+*Still working on......*
 
-`Excel` `Pivot Tables` `Slicers` `PowerPoint`
+- International project 
+- Weather forecasting
 
 </td>
 </tr>
 </table>
 
 ---
-</details>
+
 <br/>
 
 <img src="src/dino.gif">
