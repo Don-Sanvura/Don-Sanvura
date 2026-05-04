@@ -134,13 +134,23 @@ Display, load, cleaning , training models, data visualization
 </td>
 <td width="50%" valign="top">
 
-*Still working on......*
+**Weather prediction** plays a critical role in industries like agriculture, aviation, and transportation — yet many existing systems are too complex for quick, practical decision-making.
 
-- International project 
-- Weather forecasting
+WeatherPredictor is a machine learning system that predicts weather conditions from atmospheric data and presents results through a simple, accessible web application. Users input atmospheric values and receive real-time predictions for:
+
+- 🌡️ Temperature (regression)
+- 🌧️ Rain (classification)
+- ❄️ Snow (classification)
+- 👁️ Visibility (classification)
+
+╔══════════════════════════════════════╗
+║              // BUILT WITH           ║
+╚══════════════════════════════════════╝
+
+ `scikit-learn   ` `pandas         `  `numpy          `
+ `matplotlib     ` `seaborn        `  `kaggle         `
 
 </td>
-</tr>
 </table>
 
 ---
