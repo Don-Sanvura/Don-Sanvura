@@ -14,25 +14,26 @@
 
 (❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
 
-<p align="center">
-Aspiring  Software Engineer [Final-YEAR] 
-</p>
-
-----
-
- -AIM: Focuss on providing solutions and focused on building a better easier enviroment 
-</p>
-
-<p> -Beniefits: Adaptability</p>   
-
-----
-
-<hr><p align="center">high-level AI & ground-level environmental impact.</p><hr>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
 ![snake gif](https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg)
 
-<h1>SKills set</h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
+----
+<p>
+ >AIM: Focuss on providing solutions and focused on building a better easier enviroment 
+  </p>
+ >beniefits: Adaptability</p>   
+ </p>
+ >high-level AI & ground-level environmental impact.
+ </p>
+
+
+<h1>SKills set</h1>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
+</p>
 | Frontend <br>
 | Backend  <br>
 | Imagery  <br>
@@ -40,11 +41,12 @@ Aspiring  Software Engineer [Final-YEAR]
 | Research conduction  <br>
 | Website Deployment   <br>
 | GIt_Hub_Active  <br>
-
+<p>
 <details>
-  <summary>Skills</summary>
   <br/>
-
+  <summary>Skills & Technologies</summary>
+  <br/>
+</p>
   ## Skills & Technologies
 
 **Languages**
@@ -74,14 +76,13 @@ Aspiring  Software Engineer [Final-YEAR]
 </details>
 <br/>
 
----
+
  ### Featured-Projects
----
-  <br/>
-<div align="center">
-<img src="src/reactIG.gif" style="max-width: 100%;" alt="" />
-</div>
+</br>
+
   <table>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+    
 <tr>
 <td width="50%" valign="top">
 
@@ -154,11 +155,7 @@ WeatherPredictor is a machine learning system that predicts weather conditions f
 </table>
 
 ---
-
 <br/>
 
-<img src="src/dino.gif">
-
-Do you wanna play the [Dino game](https://krishealty.github.io/T-Rex-runner/)?
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<br><br>
