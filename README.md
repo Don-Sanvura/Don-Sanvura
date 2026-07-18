@@ -3,28 +3,15 @@
 <img src="src/custom.gif" style="max-width: 100%;" alt="" />
 </div>
 
-(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
-
-
-
+</br>
+</br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architect;AI+%2B+Sustainability+Researcher" alt="Typing SVG" />
 </p>
-
-
-(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
-
 <div align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Line Divider">
-
-  <br><br>
 
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 
-  <br><br>
-
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Line Divider">
 
 </div>
 
@@ -43,15 +30,15 @@
   <!-- Professional Overview Table -->
   <table width="85%">
     <tr>
-      <td align="center"><kbd>🎯 AIM</kbd></td>
+      <td align="center"><kbd> AIM</kbd></td>
       <td align="left">Engineering innovative solutions and developing efficient, scalable, and accessible environments.</td>
     </tr>
     <tr>
-      <td align="center"><kbd>⚡ BENEFITS</kbd></td>
+      <td align="center"><kbd> BENEFITS</kbd></td>
       <td align="left"><b>Adaptability</b> — Seamlessly pivoting to master evolving architectures, tools, and technical stacks.</td>
     </tr>
     <tr>
-      <td align="center"><kbd>🌿 FOCUS</kbd></td>
+      <td align="center"><kbd> FOCUS</kbd></td>
       <td align="left">Synthesizing <b>high-level AI systems</b> with <b>ground-level environmental impact</b>.</td>
     </tr>
   </table>
@@ -64,7 +51,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 
 
-  <summary align="center"><strong> Skills & Technologies</strong></summary>
   <br>
   <div align="center">
     <table width="85%">
@@ -109,7 +95,11 @@
 
 
 <div align="center">
-
+</br>
+  </br>
+<summary align="center">
+  <h3>⚡ S K I L L S  &  T E C H N O L O G I E S ⚡</h3>
+</summary>
 <h3><strong>Languages</strong></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
