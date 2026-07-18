@@ -1,7 +1,4 @@
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-<div align="center">
 <img src="src/custom.gif" style="max-width: 100%;" alt="" />
 </div>
 
@@ -171,7 +168,7 @@
     </td>
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
-        <h3> Comparative Financial Dashboard <a href="#status"><code>In Progress</code></a></h3>
+        <h3> Comparative Financial Dashboard <a href="#status"></h3>
         <p style="color: #8b949e; font-size: 14px;">A high-performance business intelligence interface parsing three years of historical market trends, massive trading volume swings, and localized market volatility indicators.</p>
         <br/>
         <a href="#skills"><kbd>Power BI</kbd></a> <a href="#skills"><kbd>DAX Engine</kbd></a> <a href="#skills"><kbd>Financial Modeling</kbd></a>
