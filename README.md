@@ -1,4 +1,6 @@
-<br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
 <div align="center">
 <img src="src/custom.gif" style="max-width: 100%;" alt="" />
 </div>
@@ -8,12 +10,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architect;AI+%2B+Sustainability+Researcher" alt="Typing SVG" />
 </p>
-<div align="center">
 
-  <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
-
-
-</div>
 
 <!-- Portfolio Access Block & Professional Overview Container -->
 <div align="center">
@@ -47,6 +44,7 @@
 
 
 <h1>SKills set</h1>
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
 
@@ -100,6 +98,9 @@
 <summary align="center">
   <h3>⚡ S K I L L S  &  T E C H N O L O G I E S ⚡</h3>
 </summary>
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Centered Dynamic Asset">
+</div>
 <h3><strong>Languages</strong></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -126,89 +127,89 @@
 </div>
 
 <br/>
+<!-- Section Header -->
+<div align="center">
+  <br/>
+  <h2>⚡ FEATURED ENGINEERING PORTFOLIO ⚡</h2>
+  <p><i>A curated collection of full-stack software architectures, machine learning models, and analytical pipelines.</i></p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Premium Divider">
+  <br/><br/>
+</div>
 
+<!-- Project Showcase Matrix -->
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  
+  <!-- ROW 1: CORE ARCHITECTURES -->
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> BC WildWatch: Campus Safety Hub</h3>
+        <p style="color: #8b949e; font-size: 14px;">A smart, real-time campus safety platform enabling immediate geolocation reporting of dangerous or nuisance animal sightings. Transitioned from a prototype to a scalable web solution optimized for performance.</p>
+        <br/>
+        <a href="#skills"><kbd>React</kbd></a> <a href="#skills"><kbd>Node.js</kbd></a> <a href="#skills"><kbd>Express</kbd></a> <a href="#skills"><kbd>JavaScript</kbd></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> Advanced Analytics & Data Visualization</h3>
+        <p style="color: #8b949e; font-size: 14px;">Translating multidimensional data arrays into actionable intelligence. This architecture uncovers underlying patterns, correlations, and predictive trends within raw datasets using custom analytical pipelines.</p>
+        <br/>
+        <a href="#skills"><kbd>Python</kbd></a> <a href="#skills"><kbd>Pandas</kbd></a> <a href="#skills"><kbd>Jupyter</kbd></a> <a href="#skills"><kbd>Tableau</kbd></a> <a href="#skills"><kbd>Risk Analytics</kbd></a>
+      </div>
+    </td>
+  </tr>
 
- ### Featured-Projects
-</br>
+  <!-- ROW 2: PREDICTIVE PIPELINES & INSIGHTS -->
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> Sales Forecasting: Predictive Engine</h3>
+        <p style="color: #8b949e; font-size: 14px;">An end-to-end machine learning pipeline transforming historical transactional ledgers into highly precise time-series demand models to optimize operational efficiencies.</p>
+        <br/>
+        <a href="#skills"><kbd>Scikit-Learn</kbd></a> <a href="#skills"><kbd>Linear Regression</kbd></a> <a href="#skills"><kbd>NumPy</kbd></a> <a href="#skills"><kbd>Seaborn</kbd></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> Comparative Financial Dashboard <a href="#status"><code>In Progress</code></a></h3>
+        <p style="color: #8b949e; font-size: 14px;">A high-performance business intelligence interface parsing three years of historical market trends, massive trading volume swings, and localized market volatility indicators.</p>
+        <br/>
+        <a href="#skills"><kbd>Power BI</kbd></a> <a href="#skills"><kbd>DAX Engine</kbd></a> <a href="#skills"><kbd>Financial Modeling</kbd></a>
+      </div>
+    </td>
+  </tr>
 
-  <table>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-    
-<tr>
-<td width="50%" valign="top">
-
-### Reporting System
-BC WildWatch is a smart campus safety platform that enables students to report dangerous or nuisance animal sightings in real time. The system transforms a classroom prototype into a scalable, web-based application using modern technologies and free-tier tools.
-
-`FrontEnd: React / JavaScript / HTML / CSS` 
-`BackEnd: Node.js / Express` 
-
-</td>
-<td width="50%" valign="top">
-
-### Data-Visualization-using-Python
-Data visualization is the discipline of trying to understand data by placing it in a visual context so that patterns, trends, and correlations that might not otherwise be detected can be exposed.
-
-`Tableau` `Excel` `Feature Engineering` `Risk Analytics`
-`Python` `Jupyter Tools: Matplotlib, Seaborn, Pandas`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Comparative Stock Dashboard *(In Progress)*
-Power BI dashboard visualizing 3 years of stock trends, trading volume, and volatility for Amazon and JPMorgan.
-
-`Power BI` `DAX` `Financial Data` `Visual Storytelling`
-
-</td>
-<td width="50%" valign="top">
-
-###  Sales Forecasting: Predictive Analytics
-This end-to-end pipeline analyzes past sales patterns to estimate future demand. By transforming raw transactional records into time-series insights, we provide a roadmap for business efficiency.
-
-`Category`	`Tools`
-`Language`	`Python`
-`Data Handling`	`Pandas, NumPy`
-`ML Engine`	`Scikit-Learn` `(Linear Regression)`
-`Visualization`	`Matplotlib`, `Seaborn`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Vechile Prices
-Display, load, cleaning , training models, data visualization
-`Neural Network`
-
-</td>
-<td width="50%" valign="top">
-
-**Weather prediction** plays a critical role in industries like agriculture, aviation, and transportation — yet many existing systems are too complex for quick, practical decision-making.
-
-WeatherPredictor is a machine learning system that predicts weather conditions from atmospheric data and presents results through a simple, accessible web application. Users input atmospheric values and receive real-time predictions for:
-
-- 🌡️ Temperature (regression)
-- 🌧️ Rain (classification)
-- ❄️ Snow (classification)
-- 👁️ Visibility (classification)
-
-╔══════════════════════════════════════╗
-              // BUILT WITH           
-╚══════════════════════════════════════╝
-
- `scikit-learn   ` `pandas         `  `numpy          `
- `matplotlib     ` `seaborn        `  `kaggle         `
-
-</td>
+  <!-- ROW 3: DEEP LEARNING & METEOROLOGY -->
+  <tr>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> Intelligent Vehicle Pricing Architecture</h3>
+        <p style="color: #8b949e; font-size: 14px;">An integrated deep learning script that automates complete extract-transform-load (ETL) routines, data sanitization, structural weight optimization, and comprehensive evaluation matrices.</p>
+        <br/>
+        <a href="#skills"><kbd>Neural Networks</kbd></a> <a href="#skills"><kbd>Data Cleansing</kbd></a> <a href="#skills"><kbd>Model Training</kbd></a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 240px;">
+        <h3> WeatherPredictor: Atmospheric Modeling</h3>
+        <p style="color: #8b949e; font-size: 14px;">A streamlined machine learning framework converting real-time atmospheric readings into rapid decision-making endpoints: continuous regression for temperature metrics along with multi-class classifications.</p>
+        <br/>
+        <a href="#skills"><kbd>Scikit-Learn</kbd></a> <a href="#skills"><kbd>Classification</kbd></a> <a href="#skills"><kbd>Matplotlib</kbd></a> <a href="#skills"><kbd>Kaggle Datasets</kbd></a>
+      </div>
+    </td>
+  </tr>
 </table>
+
+<div align="center">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Premium Divider">
+</div>
 
 ---
 <br/>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Centered Dynamic Asset">
+  <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
-<br><br>
+
+ <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
