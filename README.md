@@ -14,42 +14,103 @@
 
 (❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<div align="center">
 
-![snake gif](https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg)
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Line Divider">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+  <br><br>
 
-----
-<p>
- >AIM: Focuss on providing solutions and focused on building a better easier enviroment 
-  </p>
- >beniefits: Adaptability</p>   
- </p>
- >high-level AI & ground-level environmental impact.
- </p>
+  <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
+
+  <br><br>
+
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000" alt="Line Divider">
+
+</div>
+
+<!-- Portfolio Access Block & Professional Overview Container -->
+<div align="center">
+
+  <h2>
+    View my website portfolio: 
+    <a href="https://don-sanvura.github.io/MrSanvura.github.io/" style="text-decoration: none;">
+      <kbd>🌐 Visit Portfolio</kbd>
+    </a>
+  </h2>
+
+  <br>
+
+  <!-- Professional Overview Table -->
+  <table width="85%">
+    <tr>
+      <td align="center"><kbd>🎯 AIM</kbd></td>
+      <td align="left">Engineering innovative solutions and developing efficient, scalable, and accessible environments.</td>
+    </tr>
+    <tr>
+      <td align="center"><kbd>⚡ BENEFITS</kbd></td>
+      <td align="left"><b>Adaptability</b> — Seamlessly pivoting to master evolving architectures, tools, and technical stacks.</td>
+    </tr>
+    <tr>
+      <td align="center"><kbd>🌿 FOCUS</kbd></td>
+      <td align="left">Synthesizing <b>high-level AI systems</b> with <b>ground-level environmental impact</b>.</td>
+    </tr>
+  </table>
+
+</div>
 
 
 <h1>SKills set</h1>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
-</p>
-| Frontend <br>
-| Backend  <br>
-| Imagery  <br>
-| AI prompt engineering  <br>
-| Research conduction  <br>
-| Website Deployment   <br>
-| GIt_Hub_Active  <br>
-<p>
-<details>
-  <br/>
-  <summary>Skills & Technologies</summary>
-  <br/>
-</p>
-  ## Skills & Technologies
 
-**Languages**
+
+  <summary align="center"><strong> Skills & Technologies</strong></summary>
+  <br>
+  <div align="center">
+    <table width="85%">
+      <thead>
+        <tr>
+          <th align="center">Category</th>
+          <th align="center">Capabilities</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center"><a href="#skills"><code>Frontend</code></a></td>
+          <td align="center">Responsive UI/UX development</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>Backend</code></a></td>
+          <td align="center">API design & logic integration</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>Imagery</code></a></td>
+          <td align="center">Visual design & branding</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>AI</code></a></td>
+          <td align="center">Prompt engineering & model optimization</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>Research</code></a></td>
+          <td align="center">Academic & technical data conduction</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>Deployment</code></a></td>
+          <td align="center">CI/CD & cloud infrastructure</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="#skills"><code>GitHub</code></a></td>
+          <td align="center">Active version control & collaboration</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+
+<div align="center">
+
+<h3><strong>Languages</strong></h3>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-F29111?style=flat&logo=postgresql&logoColor=white)
@@ -57,7 +118,8 @@
 ![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat&logo=html5&logoColor=white)
 
-**Data & Machine Learning**
+
+<h3><strong>Data & Machine Learning</strong></h3>
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -65,15 +127,14 @@
 ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-21918c?style=flat)
 
 
-
-**Databases & Engineering**
+<h3><strong>Databases & Engineering</strong></h3>
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-378ADD?style=flat)
 ![3NF Design](https://img.shields.io/badge/Database_Design_(3NF)-0C447C?style=flat)
 
----
-</details>
+</div>
+
 <br/>
 
 
@@ -157,5 +218,7 @@ WeatherPredictor is a machine learning system that predicts weather conditions f
 ---
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Centered Dynamic Asset">
+</div>
 <br><br>
