@@ -143,8 +143,7 @@
 <br/>
 <!-- Section Header -->
 <div align="center">
-  <br/>
-  <h2>⚡ FEATURED ENGINEERING PORTFOLIO ⚡</h2>
+  ⚡ FEATURED ENGINEERING PORTFOLIO ⚡
   <p><i>A curated collection of full-stack software architectures, machine learning models, and analytical pipelines.</i></p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Premium Divider">
   <br/><br/>
@@ -228,13 +227,20 @@
     width="100%"
   />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/don-sanvura/don-sanvura/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
-</p>
 
+## Connect With Me
+
+<p align="center">
+  <a href="www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-don--sanvura-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-dwagsanvura@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
+<p align="center">
+Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
+</p>
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
+
 
  <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
 
