@@ -228,7 +228,9 @@
     width="100%"
   />
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/don-sanvura/don-sanvura/output/pacman-contribution-graph.svg" alt="Pacman Contribution Graph" width="100%"/>
+</p>
 
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
