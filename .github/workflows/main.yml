@@ -20,6 +20,8 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: don-sanvura
+          background_color: 'black'  
+          
 
       - name: push pacman-contribution-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
