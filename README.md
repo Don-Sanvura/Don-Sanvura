@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=header"/>
+</p>
+<p align="center">
+  <a href="https://linkedin.com/in/don-sanvura">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/_auradon">
+    <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://don-sanvura.github.io/MrSanvura.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
 <div align="center">
 <img src="src/custom.gif" style="max-width: 100%;" alt="" />
 </div>
@@ -40,7 +55,7 @@
 </div>
 
 
-<h1>SKills set</h1>
+<h1 align="center">SKills set</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="300">
@@ -87,8 +102,10 @@
       </tbody>
     </table>
   </div>
-
-
+  <p align="center">
+<a href="https://www.githero.dev/u/Don-Sanvura?ref=Don-Sanvura&widget=animated">
+  <img src="https://www.githero.dev/api/widget/Don-Sanvura?style=animated&theme=dark" alt="Githero Stats for Don-Sanvura" /></a>
+  </p>
 <div align="center">
 </br>
   </br>
@@ -204,9 +221,21 @@
 
 ---
 <br/>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=FFFFFF&line=4C489E&point=7F5AF0&area=true&area_color=4C489E&title_color=FFFFFF&custom_title=Contribution%20Activity"
+    alt="GitHub Contribution Activity Graph"
+    width="100%"
+  />
+</p>
+
 
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
 
  <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
+
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=footer"/>
+</p>
