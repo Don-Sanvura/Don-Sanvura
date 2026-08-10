@@ -8,10 +8,67 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
     steps:
       - uses: actions/checkout@v3
-      
-      - name: Generate Tetris Animation
+        with:
+          fetch-depth: 0
+
+      - name: Generate Contribution Graph
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            
+            // Create a simple SVG contribution graph
+            const svg = `<?xml version="1.0" encoding="UTF-8"?>
+            <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+              <rect width="800" height="200" fill="#ffffff"/>
+              <text x="400" y="100" font-size="24" text-anchor="middle" fill="#000000">
+                Contribution Graph Generated
+              </text>
+            </svg>`;
+            
+            // Create docs directory if it doesn't exist
+            if (!fs.existsSync('docs')) {
+              fs.mkdirSync('docs', { recursive: true });
+            }
+            
+            fs.writeFileSync('docs/index.html', `<!DOCTYPE html>
+            <html>
+            <head>
+              <title>Contribution Graph</title>
+              <style>
+                body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f6f8fa; }
+                .container { text-align: center; }
+                img { max-width: 100%; height: auto; }
+              </style>
+            </head>
+            <body>
+              <div class="container">
+                <h1>GitHub Contribution Graph</h1>
+                <img src="tetris-contribution-graph.svg" alt="Contribution Graph">
+                <p>Last generated: ${new Date().toISOString()}</p>
+              </div>
+            </body>
+            </html>`);
+            
+            fs.writeFileSync('docs/tetris-contribution-graph.svg', svg);
+            console.log('Contribution graph generated successfully');
+
+      - name: Commit changes
         run: |
-          echo "Tetris contribution graph generation"
-          # Replace this with your own script or remove entirely
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update contribution graph" && git push)
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
