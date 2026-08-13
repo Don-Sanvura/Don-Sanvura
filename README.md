@@ -222,6 +222,7 @@ Always open to collaboration, learning opportunities, and building meaningful da
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
+
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
