@@ -24,12 +24,13 @@
 <!-- Portfolio Access Block & Professional Overview Container -->
 <div align="center">
 
-  <h2>
-    View my website portfolio: 
-    <a href="https://don-sanvura.github.io/MrSanvura.github.io/" style="text-decoration: none;">
-      <kbd>🌐 Visit Portfolio</kbd>
-    </a>
-  </h2>
+### 🌐 Explore Portfolio
+
+Take a look at my personal website showcasing my projects and work.
+
+[![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://don-sanvura.github.io/MrSanvura.github.io/)
+
+</div>
 
   <br>
 
