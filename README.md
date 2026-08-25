@@ -17,7 +17,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architec[...]"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architect" />
 </p>
 
 
@@ -203,11 +203,7 @@ Take a look at my personal website showcasing my projects and work.
 ---
 <br/>
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=FFFFFF&line=4C489E&point=7F5AF0&area=true&ar[...]"
-    alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=FFFFFF&line=4C489E&point=7F5AF0" alt="GitHub Contribution Activity Graph" width="100%" />
 </p>
 
 ## Connect With Me
