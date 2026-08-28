@@ -1,5 +1,4 @@
 name: Generate Tetris Contribution Graph
-
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -7,68 +6,84 @@ on:
 
 jobs:
   generate:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
     permissions:
       contents: write
-      pages: write
-      id-token: write
     steps:
-      - uses: actions/checkout@v3
-        with:
-          fetch-depth: 0
+      - uses: actions/checkout@v4
 
-      - name: Generate Contribution Graph
-        uses: actions/github-script@v6
+      - name: Generate Tetris Contribution Graph
+        uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            const path = require('path');
-            
-            // Create a simple SVG contribution graph
-            const svg = `<?xml version="1.0" encoding="UTF-8"?>
-            <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
-              <rect width="800" height="200" fill="#ffffff"/>
-              <text x="400" y="100" font-size="24" text-anchor="middle" fill="#000000">
-                Contribution Graph Generated
-              </text>
+
+            // 1. Fetch this year's contribution calendar via GraphQL
+            const query = `
+              query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      weeks {
+                        contributionDays {
+                          date
+                          contributionCount
+                        }
+                      }
+                    }
+                  }
+                }
+              }`;
+
+            const result = await github.graphql(query, { login: context.repo.owner });
+            const weeks = result.user.contributionsCollection.contributionCalendar.weeks;
+
+            // 2. Layout constants
+            const cell = 12, gap = 3, radius = 2;
+            const cols = weeks.length;
+            const rows = 7;
+            const width = cols * (cell + gap) + gap;
+            const height = rows * (cell + gap) + gap;
+
+            const colorFor = (count) => {
+              if (count === 0) return '#161B22';
+              if (count < 3) return '#0E4429';
+              if (count < 6) return '#006D32';
+              if (count < 10) return '#26A641';
+              return '#39D353';
+            };
+
+            // 3. Draw each day as a "block", falling in from the top (tetris feel via animation)
+            let blocks = '';
+            weeks.forEach((week, x) => {
+              week.contributionDays.forEach((day, y) => {
+                const targetY = gap + y * (cell + gap);
+                const cx = gap + x * (cell + gap);
+                const fill = colorFor(day.contributionCount);
+                const delay = (x * rows + y) * 0.01;
+                blocks += `
+                  <rect x="${cx}" y="-${cell}" width="${cell}" height="${cell}" rx="${radius}"
+                    fill="${fill}" stroke="#0D1117" stroke-width="1">
+                    <animate attributeName="y" from="-${cell}" to="${targetY}"
+                      begin="${delay}s" dur="0.4s" fill="freeze" calcMode="spline"
+                      keySplines="0.2 0.8 0.2 1" />
+                  </rect>`;
+              });
+            });
+
+            const svg = `<svg width="${width}" height="${height}" viewBox="0 0 ${width} ${height}"
+              xmlns="http://www.w3.org/2000/svg">
+              <rect width="${width}" height="${height}" fill="#0D1117" rx="8"/>
+              ${blocks}
             </svg>`;
-            
-            // Create docs directory if it doesn't exist
-            if (!fs.existsSync('docs')) {
-              fs.mkdirSync('docs', { recursive: true });
-            }
-            
-            fs.writeFileSync('docs/index.html', `<!DOCTYPE html>
-            <html>
-            <head>
-              <title>Contribution Graph</title>
-              <style>
-                body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f6f8fa; }
-                .container { text-align: center; }
-                img { max-width: 100%; height: auto; }
-              </style>
-            </head>
-            <body>
-              <div class="container">
-                <h1>GitHub Contribution Graph</h1>
-                <img src="tetris-contribution-graph.svg" alt="Contribution Graph">
-                <p>Last generated: ${new Date().toISOString()}</p>
-              </div>
-            </body>
-            </html>`);
-            
-            fs.writeFileSync('docs/tetris-contribution-graph.svg', svg);
-            console.log('Contribution graph generated successfully');
+
+            fs.mkdirSync('assets', { recursive: true });
+            fs.writeFileSync('assets/tetris-contribution-graph.svg', svg);
+            console.log('Tetris contribution graph generated.');
 
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add docs/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update contribution graph" && git push)
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
+          git add assets/tetris-contribution-graph.svg
+          git diff --staged --quiet || (git commit -m "Update tetris contribution graph" && git push)
