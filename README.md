@@ -149,15 +149,17 @@ Take a look at my personal website showcasing my projects and work.
 ![](https://streak-stats.demolab.com/?user=don-sanvura&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=don-sanvura&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-  
-<summary align="center">
-  <h3>⚡ S K I L L S  &  T E C H N O L O G I E S ⚡</h3>
-</summary>
+  <br>
+
+ > S K I L L S  &  T E C H N O L O G I E S 
+
+
   <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Centered Dynamic Asset">
 </div>
 
-# 🛠️ Tech Stack
+<br>
+<h1> Tech Stack</h1>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -178,7 +180,7 @@ Take a look at my personal website showcasing my projects and work.
 <br/>
 <!-- Section Header -->
 <div align="center">
-  ⚡ FEATURED ENGINEERING PORTFOLIO ⚡
+   FEATURED ENGINEERING PORTFOLIO 
   <p><i>A curated collection of full-stack software architectures, machine learning models, and analytical pipelines.</i></p>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Premium Divider">
   <br/><br/>
