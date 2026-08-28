@@ -32,42 +32,8 @@ Take a look at my personal website showcasing my projects and work.
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://don-sanvura.github.io/MrSanvura.github.io/)
 
-<br>
-
-### 🔗 Featured Repositories
-
-<a href="https://github.com/Don-Sanvura/LPR381-Project.git">
-  <img src="https://img.shields.io/badge/LPR381--Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Don-Sanvura/EquipmentBookingSystem.git">
-  <img src="https://img.shields.io/badge/EquipmentBookingSystem-10B981?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Don-Sanvura/CostTrackerApp.git">
-  <img src="https://img.shields.io/badge/CostTrackerApp-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br>
-<a href="https://github.com/Don-Sanvura/Neural-network.git">
-  <img src="https://img.shields.io/badge/Neural--network-EF4444?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/Don-Sanvura/HotPrint.git">
-  <img src="https://img.shields.io/badge/HotPrint-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/MADS-Monitoring">
-  <img src="https://img.shields.io/badge/MADS--Monitoring-EC4899?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<br>
-<a href="https://github.com/GD-Tracking-solutions/Tracking-solutions.git">
-  <img src="https://img.shields.io/badge/GD--Tracking--solutions-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://github.com/MADS-Monitoring-Analytics/Smart-Dam-Monitoring-Dashboard.git">
-  <img src="https://img.shields.io/badge/Smart--Dam--Monitoring--Dashboard-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
   <br>
 
-  <!-- Professional Overview Table -->
   <!-- Professional Overview Table -->
 <div align="center">
   <table width="85%" style="border-collapse: collapse; border: 1px solid #30363d; border-radius: 8px; background: #0d1117;">
@@ -161,13 +127,24 @@ Take a look at my personal website showcasing my projects and work.
   <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="Centered Dynamic Asset">
 </div>
 
-# Tech Stack:
+# 🛠️ Tech Stack
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white[...]
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![Data Warehousing](https://img.shields.io/badge/Data_Warehousing-378ADD?style=flat)
-![3NF Design](https://img.shields.io/badge/Database_Design_(3NF)-0C447C?style=flat)
-
+![3NF Design](https://img.shields.io/badge/3NF_Design-0C447C?style=flat)
 <br/>
 <!-- Section Header -->
 <div align="center">
@@ -306,16 +283,39 @@ Take a look at my personal website showcasing my projects and work.
 
 ### 🔗 Repository Links
 
-| Feel free to click around Links!!! |
-|---|
-| [LPR381-Project](https://github.com/Don-Sanvura/LPR381-Project.git) | 
-| [EquipmentBookingSystem](https://github.com/Don-Sanvura/EquipmentBookingSystem.git) | 
-| [CostTrackerApp](https://github.com/Don-Sanvura/CostTrackerApp.git) | 
-| [Neural-network](https://github.com/Don-Sanvura/Neural-network.git) | 
-| [HotPrint](https://github.com/Don-Sanvura/HotPrint.git) | 
-| [MADS-Monitoring](https://github.com/MADS-Monitoring) | 
-| [GD-Tracking-solutions](https://github.com/GD-Tracking-solutions/Tracking-solutions.git) | 
-| [Smart-Dam-Monitoring-Dashboard](https://github.com/MADS-Monitoring-Analytics/Smart-Dam-Monitoring-Dashboard.git) |
+| Feel free to click around Links!!! | Featured Repositories |
+|--|--|
+<a href="https://github.com/Don-Sanvura/LPR381-Project.git">
+  <img src="https://img.shields.io/badge/LPR381--Project-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Don-Sanvura/EquipmentBookingSystem.git">
+  <img src="https://img.shields.io/badge/EquipmentBookingSystem-10B981?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Don-Sanvura/CostTrackerApp.git">
+  <img src="https://img.shields.io/badge/CostTrackerApp-F59E0B?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br>
+<a href="https://github.com/Don-Sanvura/Neural-network.git">
+  <img src="https://img.shields.io/badge/Neural--network-EF4444?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/Don-Sanvura/HotPrint.git">
+  <img src="https://img.shields.io/badge/HotPrint-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/MADS-Monitoring">
+  <img src="https://img.shields.io/badge/MADS--Monitoring-EC4899?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br>
+<a href="https://github.com/GD-Tracking-solutions/Tracking-solutions.git">
+  <img src="https://img.shields.io/badge/GD--Tracking--solutions-14B8A6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://github.com/MADS-Monitoring-Analytics/Smart-Dam-Monitoring-Dashboard.git">
+  <img src="https://img.shields.io/badge/Smart--Dam--Monitoring--Dashboard-3B82F6?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+  <br>
+
 
 <div align="center">
   <br/>
@@ -324,14 +324,17 @@ Take a look at my personal website showcasing my projects and work.
 
 ---
 <br/>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=FFFFFF&line=4C489E&point=7F5AF0&area=true&ar[...]"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area_color=6366F1"
     alt="GitHub Contribution Activity Graph"
     width="100%"
   />
 </p>
 
+<br/>
+</p>
 ## Connect With Me
 
 <p align="center">
