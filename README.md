@@ -27,6 +27,8 @@
     
 <div align="center">
 
+<div align="center">
+
 ### 🌐 Explore My Portfolio
 
 Take a look at my personal website showcasing my projects and work.
