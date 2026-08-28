@@ -325,20 +325,22 @@ Take a look at my personal website showcasing my projects and work.
 ---
 <div align="center">
 
-### 📈 Contribution Activity
+###  Contribution Activity
+
+![](./profile-3d-contrib/profile-green-dual.svg)
+
 
 <a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area_color=6366F1"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area_color=6366F1"
     alt="GitHub Contribution Activity Graph"
-    width="100%"
-  />
+    width="100%"/>
 </a>
 
 </div>
 
 <br/>
 </p>
+
 ## Connect With Me
 
 <p align="center">
