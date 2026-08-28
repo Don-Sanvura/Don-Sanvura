@@ -1,3 +1,9 @@
+> *Software Engineer & AI Researcher synthesizing machine learning models with environmental engineering impact.*
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=header"/>
+</p>
+
+
 <p align="center">
   <a href="https://linkedin.com/in/don-sanvura">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -24,6 +30,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architec[...[...]
 </p>
+
+
     
 <div align="center">
 
@@ -36,7 +44,23 @@ Take a look at my personal website showcasing my projects and work.
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://don-sanvura.github.io/MrSanvura.github.io/)
 
 </div>
- 
+
+ <table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b> Mission</b><br/>
+      Building scalable, accessible software and intelligent data pipelines.
+    </td>
+    <td width="33%" align="center">
+      <b> Focus</b><br/>
+      AI system optimization, cloud architectures, and predictive analytics.
+    </td>
+    <td width="33%" align="center">
+      <b> Contact</b><br/>
+      <a href="mailto:dwagsanvura@gmail.com">dwagsanvura@gmail.com</a>
+    </td>
+  </tr>
+</table>
 
   <!-- Professional Overview Table -->
 <div align="center">
@@ -67,6 +91,8 @@ Take a look at my personal website showcasing my projects and work.
     </tr>
   </table>
 </div>
+
+
 
 
 <h1 align="center">SKills set</h1>
@@ -318,64 +344,22 @@ Take a look at my personal website showcasing my projects and work.
 
 </div>
 
-  <br>
+---
 
+
+<br/>
 
 <div align="center">
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Premium Divider">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Premium Divider">
 </div>
 
----
+[![readme Quotes](https://quotes-github-readme.vercel.app/api?border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
 <div align="center">
-
-### 📊 3D Contribution Activity
-
-<!-- 
-ABOUT THIS SECTION:
-This 3D contribution graph is automatically generated and updated daily by GitHub Actions.
-It provides an interactive 3D visualization of your GitHub contributions over time.
-
-THEME OPTIONS:
-You can customize the visual appearance by changing the THEME variable in .github/workflows/profile-3d.yml:
-  - purple-dual (default, purple colored)
-  - night-view (dark theme with cyan/blue colors) ← Currently used
-  - seasonal (changes color based on season)
-  - classic (traditional GitHub colors)
-  - ocean (ocean blue theme)
-  - candy (pastel candy colors)
-
-To use a different theme, edit .github/workflows/profile-3d.yml and update:
-  THEME: night-view  → change to your preferred theme
-
-GENERATED FILES:
-After each workflow run, two SVG files are created in profile-3d-contrib/:
-  - profile-{THEME}-with-border.svg     (bordered version)
-  - profile-{THEME}.svg                 (clean version without border)
--->
-
-![3D Contribution Graph](tetris-contribution-graph.svg)
-
-<a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area[...]
-    alt="GitHub Contribution Activity Graph"width="100%"/>
-  
-</a>
-
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Premium Divider">
 </div>
-
-<br/>
-</p>
-
-## Connect With Me
-
-<p align="center">
-  <a href="www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-don--sanvura-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-dwagsanvura@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-</p>
-<p align="center">
-Always open to collaboration, learning opportunities, and building meaningful data-driven solutions.
-</p>
 
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
@@ -383,8 +367,12 @@ Always open to collaboration, learning opportunities, and building meaningful da
 
 
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=14D4DA&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-don--sanvura-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-dwagsanvura@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
