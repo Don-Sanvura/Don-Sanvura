@@ -21,15 +21,10 @@
 </p>
 
 </br>
-</br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architec[...[...]
 </p>
-
-
-<!-- Portfolio Access Block & Professional Overview Container -->
-<div align="center">
-
+    
 <div align="center">
 
 ### 🌐 Explore My Portfolio
@@ -38,7 +33,8 @@ Take a look at my personal website showcasing my projects and work.
 
 [![Visit Portfolio](https://img.shields.io/badge/Visit-Portfolio-6366f1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://don-sanvura.github.io/MrSanvura.github.io/)
 
-  <br>
+</div>
+ 
 
   <!-- Professional Overview Table -->
 <div align="center">
@@ -356,12 +352,12 @@ After each workflow run, two SVG files are created in profile-3d-contrib/:
   - profile-{THEME}.svg                 (clean version without border)
 -->
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
+![3D Contribution Graph](tetris-contribution-graph.svg)
 
 <a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area[...]
-    alt="GitHub Contribution Activity Graph"
-    width="100%"/>
+    alt="GitHub Contribution Activity Graph"width="100%"/>
+  
 </a>
 
 </div>
@@ -382,6 +378,7 @@ Always open to collaboration, learning opportunities, and building meaningful da
 <div align="center">
   <img src="https://github.com/Don-Sanvura/Don-Sanvura/blob/output/github-snake-dark.svg" alt="Snake Contribution Graph">
 </div>
+
 
 <br/><br/><p align="center"><img src="https://s.w.org/style/images/codeispoetry.png?1" alt="Code is Poetry." /></p>
 
