@@ -323,15 +323,19 @@ Take a look at my personal website showcasing my projects and work.
 </div>
 
 ---
-<br/>
+<div align="center">
 
-<p align="center">
+### 📈 Contribution Activity
+
+<a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area_color=6366F1"
     alt="GitHub Contribution Activity Graph"
     width="100%"
   />
-</p>
+</a>
+
+</div>
 
 <br/>
 </p>
