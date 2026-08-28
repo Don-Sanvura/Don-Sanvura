@@ -327,7 +327,7 @@ Take a look at my personal website showcasing my projects and work.
 
 ###  Contribution Activity
 
-![](./profile-3d-contrib/profile-green-dual.svg)
+![](./profile/profile-night-rainbow-with-border.svg)
 
 
 <a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
