@@ -17,7 +17,7 @@
 </br>
 </br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architec[...]"
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D4AF37&center=true&vCenter=true&width=435&lines=Software+Engineer;Aspiring+Digital+Assistant;Full-Stack+Architec[...[...]
 </p>
 
 
@@ -164,7 +164,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> BC WildWatch: Campus Safety Hub</h3>
-        <p style="color: #8b949e; font-size: 14px;">A smart, real-time campus safety platform enabling immediate geolocation reporting of dangerous or nuisance animal sightings. Transitioned from legacy alert systems to modern reactive architecture.</p>
+        <p style="color: #8b949e; font-size: 14px;">A smart, real-time campus safety platform enabling immediate geolocation reporting of dangerous or nuisance animal sightings. Transitioned from lega[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Lead Full-Stack Developer<br>
         <strong>Challenges:</strong> Real-time GPS accuracy, push notification delivery, scalability under load<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - Moderate Challenge</span></p>
@@ -175,7 +175,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> Advanced Analytics & Data Visualization</h3>
-        <p style="color: #8b949e; font-size: 14px;">Translating multidimensional data arrays into actionable intelligence. This architecture uncovers underlying patterns, correlations, and predictive insights from complex datasets.</p>
+        <p style="color: #8b949e; font-size: 14px;">Translating multidimensional data arrays into actionable intelligence. This architecture uncovers underlying patterns, correlations, and predictive [...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Data Engineer & Analyst<br>
         <strong>Challenges:</strong> Data cleaning, optimizing large dataset processing, visualization clarity<br>
         <strong>Status:</strong> <span style="color: #58a6ff;">🔄 In Progress - Moderate Challenge</span></p>
@@ -190,7 +190,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> Sales Forecasting: Predictive Engine</h3>
-        <p style="color: #8b949e; font-size: 14px;">An end-to-end machine learning pipeline transforming historical transactional ledgers into highly precise time-series demand models to optimize inventory and supply chain decisions.</p>
+        <p style="color: #8b949e; font-size: 14px;">An end-to-end machine learning pipeline transforming historical transactional ledgers into highly precise time-series demand models to optimize inve[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> ML Engineer<br>
         <strong>Challenges:</strong> Seasonality adjustments, outlier handling, model drift<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - High Challenge</span></p>
@@ -201,7 +201,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> Comparative Financial Dashboard</h3>
-        <p style="color: #8b949e; font-size: 14px;">A high-performance business intelligence interface parsing three years of historical market trends, massive trading volume swings, and localized economic indicators.</p>
+        <p style="color: #8b949e; font-size: 14px;">A high-performance business intelligence interface parsing three years of historical market trends, massive trading volume swings, and localized eco[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> BI Developer & Data Analyst<br>
         <strong>Challenges:</strong> DAX optimization, data integration from multiple sources, performance tuning<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - Moderate Challenge</span></p>
@@ -216,7 +216,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> Intelligent Vehicle Pricing Architecture</h3>
-        <p style="color: #8b949e; font-size: 14px;">An integrated deep learning script that automates complete extract-transform-load (ETL) routines, data sanitization, structural weight optimization, and price prediction modeling.</p>
+        <p style="color: #8b949e; font-size: 14px;">An integrated deep learning script that automates complete extract-transform-load (ETL) routines, data sanitization, structural weight optimization,[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Lead ML Developer<br>
         <strong>Challenges:</strong> Feature engineering, model convergence, handling categorical variables<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - High Challenge</span></p>
@@ -227,7 +227,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> WeatherPredictor: Atmospheric Modeling</h3>
-        <p style="color: #8b949e; font-size: 14px;">A streamlined machine learning framework converting real-time atmospheric readings into rapid decision-making endpoints: continuous regression and classification models for weather prediction.</p>
+        <p style="color: #8b949e; font-size: 14px;">A streamlined machine learning framework converting real-time atmospheric readings into rapid decision-making endpoints: continuous regression and c[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> ML Researcher & Developer<br>
         <strong>Challenges:</strong> Feature selection, model accuracy, real-time data streaming<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - Very High Challenge</span></p>
@@ -242,7 +242,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> Smart Dam Monitoring Dashboard</h3>
-        <p style="color: #8b949e; font-size: 14px;">An intelligent monitoring system providing real-time visualization of dam structural health, water levels, and environmental conditions with predictive alerting capabilities.</p>
+        <p style="color: #8b949e; font-size: 14px;">An intelligent monitoring system providing real-time visualization of dam structural health, water levels, and environmental conditions with predict[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Frontend Developer & Data Integrator<br>
         <strong>Challenges:</strong> Real-time sensor data integration, visualization complexity, alert threshold calibration<br>
         <strong>Status:</strong> <span style="color: #58a6ff;">🔄 In Progress - High Challenge</span></p>
@@ -253,7 +253,7 @@ Take a look at my personal website showcasing my projects and work.
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
         <h3> GD Tracking Solutions</h3>
-        <p style="color: #8b949e; font-size: 14px;">A comprehensive asset and vehicle tracking platform providing real-time GPS monitoring, geofencing, route optimization, and fleet management analytics.</p>
+        <p style="color: #8b949e; font-size: 14px;">A comprehensive asset and vehicle tracking platform providing real-time GPS monitoring, geofencing, route optimization, and fleet management analyti[...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Full-Stack Developer & System Architect<br>
         <strong>Challenges:</strong> GPS accuracy optimization, real-time data processing, mobile responsiveness<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - Very High Challenge</span></p>
@@ -325,13 +325,35 @@ Take a look at my personal website showcasing my projects and work.
 ---
 <div align="center">
 
-###  Contribution Activity
+### 📊 3D Contribution Activity
 
-![](./profile/profile-night-rainbow-with-border.svg)
+<!-- 
+ABOUT THIS SECTION:
+This 3D contribution graph is automatically generated and updated daily by GitHub Actions.
+It provides an interactive 3D visualization of your GitHub contributions over time.
 
+THEME OPTIONS:
+You can customize the visual appearance by changing the THEME variable in .github/workflows/profile-3d.yml:
+  - purple-dual (default, purple colored)
+  - night-view (dark theme with cyan/blue colors) ← Currently used
+  - seasonal (changes color based on season)
+  - classic (traditional GitHub colors)
+  - ocean (ocean blue theme)
+  - candy (pastel candy colors)
+
+To use a different theme, edit .github/workflows/profile-3d.yml and update:
+  THEME: night-view  → change to your preferred theme
+
+GENERATED FILES:
+After each workflow run, two SVG files are created in profile-3d-contrib/:
+  - profile-{THEME}-with-border.svg     (bordered version)
+  - profile-{THEME}.svg                 (clean version without border)
+-->
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow-with-border.svg)
 
 <a href="https://github.com/don-sanvura?tab=repositories" target="_blank">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area_color=6366F1"
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=don-sanvura&theme=github-dark&hide_border=true&radius=16&bg_color=0D1117&color=A5B4FC&line=6366F1&point=7F5AF0&area=true&area[...]
     alt="GitHub Contribution Activity Graph"
     width="100%"/>
 </a>
