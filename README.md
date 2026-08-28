@@ -14,6 +14,12 @@
 <img src="src/custom.gif" style="max-width: 100%;" alt="" />
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&background=30109200&center=true&width=500&height=70&lines=Greetings+;Welcome+to+my+profolio;I+am++Don%2C+your%3A;Software+Engineer;Web+and+System+developer;Researcher;Machine+Learning+;AI+prompt+engineer" alt="Typing SVG" />
+  </a>
+</p>
+
 </br>
 </br>
 <p align="center">
