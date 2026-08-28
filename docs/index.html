@@ -1,18 +1,135 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Contribution Graph</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tetris Contribution Graph — Don Sanvura</title>
   <style>
-    body { font-family: Arial, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f6f8fa; }
-    .container { text-align: center; }
-    img { max-width: 100%; height: auto; }
+    :root {
+      --bg: #0D1117;
+      --card: #161B22;
+      --border: #30363D;
+      --accent: #7F5AF0;
+      --accent-soft: #6366f1;
+      --text: #E6EDF3;
+      --muted: #8B949E;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+      background: radial-gradient(circle at top, #161B22, var(--bg) 60%);
+      color: var(--text);
+      padding: 24px;
+    }
+
+    .card {
+      text-align: center;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 40px 32px;
+      max-width: 900px;
+      width: 100%;
+      box-shadow: 0 8px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    h1 {
+      margin: 0 0 4px;
+      font-size: 1.5rem;
+      background: linear-gradient(90deg, var(--accent-soft), var(--accent));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+
+    .subtitle {
+      margin: 0 0 28px;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 8px;
+      background: var(--bg);
+      padding: 12px;
+      border: 1px solid var(--border);
+    }
+
+    .meta {
+      margin-top: 20px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .meta strong {
+      color: var(--text);
+    }
+
+    .fallback {
+      display: none;
+      color: var(--muted);
+      font-size: 0.9rem;
+      padding: 40px 0;
+    }
+
+    footer {
+      margin-top: 28px;
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+
+    footer a {
+      color: var(--accent-soft);
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>GitHub Contribution Graph</h1>
-    <img src="tetris-contribution-graph.svg" alt="Contribution Graph">
-    <p>Last generated: 2026-08-28T09:56:16.678Z</p>
+  <div class="card">
+    <h1>🎮 Tetris Contribution Graph</h1>
+    <p class="subtitle">A daily-refreshed, tetris-style view of GitHub activity</p>
+
+    <img
+      src="tetris-contribution-graph.svg"
+      alt="Tetris-style GitHub contribution graph"
+      onerror="this.style.display='none'; document.getElementById('fallback').style.display='block';"
+    />
+    <p id="fallback" class="fallback">
+      Graph hasn't generated yet — check back after the next scheduled run.
+    </p>
+
+    <p class="meta">
+      Last generated: <strong id="last-generated">2026-08-28T09:56:16.678Z</strong>
+    </p>
+
+    <footer>
+      Auto-generated daily via <a href="https://github.com/features/actions">GitHub Actions</a>
+    </footer>
   </div>
+
+  <script>
+    // Reformat the ISO timestamp into a readable local date/time
+    const el = document.getElementById('last-generated');
+    const date = new Date(el.textContent);
+    if (!isNaN(date)) {
+      el.textContent = date.toLocaleString(undefined, {
+        dateStyle: 'medium',
+        timeStyle: 'short',
+      });
+    }
+  </script>
 </body>
 </html>
