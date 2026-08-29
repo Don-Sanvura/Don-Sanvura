@@ -210,7 +210,7 @@ Take a look at my personal website showcasing my projects and work.
         <p style="color: #8b949e; font-size: 14px;">Translating multidimensional data arrays into actionable intelligence. This architecture uncovers underlying patterns, correlations, and predictive [...]
         <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Data Engineer & Analyst<br>
         <strong>Challenges:</strong> Data cleaning, optimizing large dataset processing, visualization clarity<br>
-        <strong>Status:</strong> <span style="color: #58a6ff;">🔄 In Progress - Moderate Challenge</span></p>
+        <strong>Status:</strong> <span style="color: #58a6ff;"> Done but can still be improved- Moderate Challenge</span></p>
         <a href="https://github.com/Don-Sanvura/CostTrackerApp.git"><kbd>📂 Repo</kbd></a>
         <a href="#skills"><kbd>Python</kbd></a> <a href="#skills"><kbd>Pandas</kbd></a> <a href="#skills"><kbd>Jupyter</kbd></a> <a href="#skills"><kbd>Tableau</kbd></a>
       </div>
@@ -284,10 +284,10 @@ Take a look at my personal website showcasing my projects and work.
     </td>
     <td width="50%" valign="top">
       <div style="padding: 15px; border-radius: 8px; background: #0d1117; border: 1px solid #30363d; min-height: 280px;">
-        <h3> GD Tracking Solutions</h3>
-        <p style="color: #8b949e; font-size: 14px;">A comprehensive asset and vehicle tracking platform providing real-time GPS monitoring, geofencing, route optimization, and fleet management analyti[...]
-        <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> Full-Stack Developer & System Architect<br>
-        <strong>Challenges:</strong> GPS accuracy optimization, real-time data processing, mobile responsiveness<br>
+        <h3> GD Tracking Solutions(Recruitment track)</h3>
+        <p style="color: #8b949e; font-size: 14px;"> Real time Resruitment dashboard track, automates responses which include CRUD Operators [...]
+        <p style="color: #d4d4d4; font-size: 13px;"><strong>Role:</strong> developer  <br>
+        <strong>Challenges:</strong> Data storage, real-time data processing, mobile responsiveness, auto Update<br>
         <strong>Status:</strong> <span style="color: #3fb950;">✅ Achieved - Very High Challenge</span></p>
         <a href="https://github.com/GD-Tracking-solutions/Tracking-solutions.git"><kbd>📂 Repo</kbd></a>
         <a href="#skills"><kbd>React Native</kbd></a> <a href="#skills"><kbd>Node.js</kbd></a> <a href="#skills"><kbd>MongoDB</kbd></a> <a href="#skills"><kbd>WebSockets</kbd></a>
