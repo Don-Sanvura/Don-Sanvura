@@ -298,7 +298,7 @@ Take a look at my personal website showcasing my projects and work.
 
 ---
 
-## 📋 Project Ranking Overview
+##  Project Ranking Overview
 
 | Project | Challenge Level | Status | Key Success |
 |---------|----------------|--------|-------------|
