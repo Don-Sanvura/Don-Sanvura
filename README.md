@@ -1,139 +1,104 @@
-<!-- Animated header: gradient wave + typewriter text -->
+<!-- Profile README: GitHub-safe Markdown with externally hosted animated images -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0d9488,100:22d3ee&height=230&section=header&text=Don%20Sanvura&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20Data%20%26%20AI&descSize=17&descAlignY=56" alt="Animated gradient banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:0d9488,100:22d3ee&amp;height=220&amp;section=header&amp;text=Don%20Sanvura&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36" alt="Animated teal and navy header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=850&color=22D3EE&center=true&vCenter=true&width=900&lines=Final-year+Software+Engineering+student;Building+useful+software+and+AI-powered+systems;Full-Stack+Development+%7C+Data+%26+Machine+Learning;Always+building%2C+testing%2C+improving" alt="Animated typing introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Final-year+Software+Engineering+student;Full-stack+development+%7C+Data+%7C+AI;Building%2C+testing%2C+and+improving" alt="Animated introduction" />
 </p>
 
 <p align="center">
-  <a href="https://don-sanvura.github.io/MrSanvura.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=firefox&logoColor=22D3EE" alt="Portfolio website" /></a>
-  <a href="https://www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://don-sanvura.github.io/MrSanvura.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&amp;logo=firefox&amp;logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## `whoami`
+## About me
 
-I'm a **final-year Bachelor of Computing student at Belgium Campus iTversity**, specialising in Software Engineering. I enjoy turning practical problems into useful digital products, from web applications and automation to predictive modelling and AI-assisted systems.
+I'm a **final-year Bachelor of Computing student at Belgium Campus iTversity**, specialising in Software Engineering. I enjoy building useful digital products, from web applications and automation to predictive modelling and AI-assisted systems.
 
-My engineering focus is on **clear design, maintainable code, thoughtful documentation, and honest testing**. I am growing my skills by building projects, reviewing what works, and improving what does not.
+I focus on writing understandable code, documenting decisions, testing important behaviour, and being clear about what is complete and what is still in progress.
 
-- **Currently exploring:** full-stack engineering, AI workflows, API design, and data-driven applications.
-- **I value:** curiosity, teamwork, reliable software, and explaining technical decisions clearly.
-- **Career goal:** contribute to an engineering team, learn from experienced developers, and help deliver software that solves real problems.
+- **Interests:** full-stack development, AI workflows, API design, and data-driven applications.
+- **Working style:** curious, practical, collaborative, and open to feedback.
+- **Career goal:** contribute to an engineering team and help deliver software that solves real problems.
 
 ## Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Foreman OS</h3>
-      <p><a href="https://github.com/Don-Sanvura/Foreman-OS"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore Foreman OS" /></a></p>
-      A multi-business AI agent operating-system concept focused on coordinating specialised agents through shared workflows and human approval.
-      <br/><br/>
-      <b>Focus:</b> AI agents, orchestration, API design, permissions, human-in-the-loop controls.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Weather Prediction</h3>
-      <p><a href="https://github.com/Don-Sanvura/Weather_Forcasting.github.io"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore Weather Prediction" /></a></p>
-      A machine-learning project exploring weather-related regression and classification using atmospheric observations.
-      <br/><br/>
-      <b>Focus:</b> Python, Pandas, scikit-learn, Flask, model evaluation.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>BC WildWatch</h3>
-      <p><a href="https://github.com/Don-Sanvura/WildWatch"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore WildWatch" /></a></p>
-      A campus wildlife hazard reporting concept that explores community reporting, alerts, and monitoring workflows.
-      <br/><br/>
-      <b>Focus:</b> web applications, reporting workflows, application design, analytics.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Sales Forecasting</h3>
-      <p><a href="https://github.com/Don-Sanvura/Sales_Forecasting"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore Sales Forecasting" /></a></p>
-      A predictive analytics project using historical sales data and a linear-regression baseline to explore future demand.
-      <br/><br/>
-      <b>Focus:</b> Python, Pandas, NumPy, scikit-learn, forecasting.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Campaign Performance Analysis</h3>
-      <p><a href="https://github.com/Don-Sanvura/Campaign-Performance-Analysis"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore Campaign Analysis" /></a></p>
-      An Excel case study comparing campaign messages and channels to identify patterns in sales and new-customer conversion.
-      <br/><br/>
-      <b>Focus:</b> Excel, pivot tables, charts, business insights.
-    </td>
-    <td width="50%" valign="top">
-      <h3>Python Data Visualisation</h3>
-      <p><a href="https://github.com/Don-Sanvura/Data-Visualization-using-Python-master"><img src="https://img.shields.io/badge/Explore-Repository-0F172A?style=flat-square&logo=github" alt="Explore Data Visualisation" /></a></p>
-      A collection of notebooks and examples exploring patterns, distributions, and relationships in data.
-      <br/><br/>
-      <b>Focus:</b> Python, Jupyter, Pandas, Matplotlib, Seaborn.
-    </td>
-  </tr>
-</table>
+### [Foreman OS](https://github.com/Don-Sanvura/Foreman-OS)
+A multi-business AI agent operating-system concept exploring specialised agents, shared workflows, and human approval.
+  
+**Focus:** AI agents, workflow orchestration, API design, permissions, and human-in-the-loop controls.
+
+### [Weather Prediction](https://github.com/Don-Sanvura/Weather_Forcasting.github.io)
+A machine-learning project exploring weather-related regression and classification using atmospheric observations.
+
+**Focus:** Python, Pandas, scikit-learn, Flask, and model evaluation.
+
+### [BC WildWatch](https://github.com/Don-Sanvura/WildWatch)
+A campus wildlife hazard reporting project concept focused on community reporting and monitoring workflows.
+
+**Focus:** web applications, reporting workflows, application design, and analytics.
+
+### [Sales Forecasting](https://github.com/Don-Sanvura/Sales_Forecasting)
+A predictive analytics project using historical sales data and a linear-regression baseline to explore future demand.
+
+**Focus:** Python, Pandas, NumPy, scikit-learn, and forecasting.
+
+### [Campaign Performance Analysis](https://github.com/Don-Sanvura/Campaign-Performance-Analysis)
+An Excel case study comparing campaign messages and channels to identify patterns in sales and new-customer conversion.
+
+**Focus:** Excel, pivot tables, charts, and business insights.
+
+### [Python Data Visualisation](https://github.com/Don-Sanvura/Data-Visualization-using-Python-master)
+A collection of notebooks and examples exploring patterns, distributions, and relationships in data.
+
+**Focus:** Python, Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
 
 ## Technology toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,cs,cpp,git,github,vscode,visualstudio&perline=7" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,cs,cpp,git,github,vscode&amp;perline=7" alt="Programming languages and developer tools" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=flat-square" alt="Pandas and NumPy" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Visualisation-Matplotlib%20%7C%20Seaborn-0F766E?style=flat-square" alt="Data visualisation" />
-  <img src="https://img.shields.io/badge/Workflow-Git%20%26%20GitHub-181717?style=flat-square&logo=github" alt="Git and GitHub" />
+  <img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/Visualisation-Matplotlib%20%7C%20Seaborn-0F766E?style=flat-square" alt="Matplotlib and Seaborn" />
 </p>
 
-*These reflect technologies used or explored across my projects. Check each repository for its specific implementation and current status.*
+*These are technologies I have used or explored across my projects. Each repository describes its own implementation and current status.*
 
 ## GitHub activity
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub statistics" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub profile statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most-used languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Don-Sanvura&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="70%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22d3ee,50:0d9488,100:0f172a&amp;height=100&amp;section=footer" alt="Animated footer" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Don-Sanvura&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-</p>
+## How I approach projects
 
-## How I build
+- **Understand the problem:** identify users, goals, and constraints.
+- **Build in small steps:** keep features manageable and code readable.
+- **Test and improve:** check key behaviour and respond to feedback.
+- **Document honestly:** explain setup, design choices, limitations, and next steps.
 
-| Principle | What it means in my work |
-|---|---|
-| Understand the problem | Identify users, goals, constraints, and what success looks like. |
-| Build in small steps | Keep features manageable and code easier to understand. |
-| Test and improve | Check important behaviour and use feedback to guide changes. |
-| Document honestly | Explain setup, design choices, limitations, and next steps. |
+## Connect with me
 
-## Connect
+- **Portfolio:** [don-sanvura.github.io/MrSanvura.github.io](https://don-sanvura.github.io/MrSanvura.github.io/)
+- **LinkedIn:** [linkedin.com/in/don-sanvura](https://www.linkedin.com/in/don-sanvura)
+- **Email:** [dwagsanvura@gmail.com](mailto:dwagsanvura@gmail.com)
 
-<p align="center">
-  <a href="https://don-sanvura.github.io/MrSanvura.github.io/"><b>Portfolio website</b></a> ·
-  <a href="https://www.linkedin.com/in/don-sanvura"><b>LinkedIn</b></a> ·
-  <a href="mailto:dwagsanvura@gmail.com"><b>Email me</b></a>
-</p>
-
-<p align="center">
-  <i>Building with purpose. Improving with every iteration.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d9488,100:0f172a&height=110&section=footer" alt="Animated gradient footer" width="100%" />
-</p>
+<p align="center"><i>Building with purpose. Improving with every iteration.</i></p>
 
 <!--
-Animation and stats images are hosted by third-party services. If a card does not load,
-check the service status or remove that image; the profile README itself does not run JavaScript.
+The animated images and statistic cards are provided by external services.
+If one provider is temporarily unavailable, the rest of this README remains usable.
 -->
