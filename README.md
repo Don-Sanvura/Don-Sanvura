@@ -12,9 +12,8 @@
 </p>
 
 <p align="center">
-  <a href="https://don-sanvura.github.io/MrSanvura.github.io/">
-    <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-eac8fe4e991b" alt="Animated pixel-art coder — visit my portfolio" width="180" />
-  </a>
+  <img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=DonSanvura&size=180&backgroundColor=0f172a" alt="Pixel-art avatar representing Don Sanvura" width="140" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated coding GIF" width="280" />
 </p>
 
 <p align="center">
