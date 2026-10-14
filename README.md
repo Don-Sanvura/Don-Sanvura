@@ -12,7 +12,9 @@
 </p>
 
 <p align="center">
-  <img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=DonSanvura&size=180&backgroundColor=0f172a" alt="Pixel-art avatar generated for Don Sanvura" width="150" />
+  <a href="https://don-sanvura.github.io/MrSanvura.github.io/">
+    <img src="https://github.com/user-attachments/assets/db1f70a4-c525-4e6f-b55e-eac8fe4e991b" alt="Animated pixel-art coder — visit my portfolio" width="180" />
+  </a>
 </p>
 
 <p align="center">
@@ -27,7 +29,7 @@
 
 I'm a **final-year Bachelor of Computing student at Belgium Campus iTversity**, specialising in Software Engineering. I enjoy turning practical problems into clear, usable software, and exploring how web development, data, and AI can work together.
 
-I value readable code, useful documentation, thoughtful testing, teamwork, and honest reporting of what is complete versus what still needs work.
+I aim to pair curiosity with disciplined engineering: understand the problem, test assumptions, explain decisions clearly, and stay humble enough to improve when feedback reveals a better path.
 
 <table>
   <tr>
@@ -132,6 +134,25 @@ I value readable code, useful documentation, thoughtful testing, teamwork, and h
   <img src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages across public repositories" height="170" />
 </p>
+
+## What I bring to a team
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>Curiosity</h3>
+      <p>I ask why, explore alternatives, and look for the real problem before choosing a solution.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Clear thinking</h3>
+      <p>I break complex work into smaller steps, compare trade-offs, and aim for maintainable results.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Humility</h3>
+      <p>I welcome code reviews, acknowledge what I still need to learn, and treat feedback as part of good engineering.</p>
+    </td>
+  </tr>
+</table>
 
 ## My engineering approach
 
