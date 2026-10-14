@@ -1,104 +1,161 @@
-<!-- Profile README: GitHub-safe Markdown with externally hosted animated images -->
+<!--
+  Don Sanvura | GitHub Profile README
+  Keep project links pointed at public repositories and describe project status honestly.
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f172a,50:0d9488,100:22d3ee&amp;height=220&amp;section=header&amp;text=Don%20Sanvura&amp;fontSize=54&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=36" alt="Animated teal and navy header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,55:0f766e,100:22d3ee&height=210&section=header&text=Don%20Sanvura&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Navy and teal animated profile banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=900&amp;color=22D3EE&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Final-year+Software+Engineering+student;Full-stack+development+%7C+Data+%7C+AI;Building%2C+testing%2C+and+improving" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=18&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Software+Engineering+%7C+Full-stack+Development;Data+Analytics+%7C+Machine+Learning;Building+useful+software%2C+one+iteration+at+a+time" alt="Animated software engineering introduction" />
 </p>
 
 <p align="center">
-  <a href="https://don-sanvura.github.io/MrSanvura.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&amp;logo=firefox&amp;logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <img src="https://api.dicebear.com/9.x/pixel-art/svg?seed=DonSanvura&size=180&backgroundColor=0f172a" alt="Pixel-art avatar generated for Don Sanvura" width="150" />
+</p>
+
+<p align="center">
+  <a href="https://don-sanvura.github.io/MrSanvura.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-0F172A?style=for-the-badge&logo=firefox&logoColor=22D3EE" alt="Visit portfolio" /></a>
+  <a href="https://www.linkedin.com/in/don-sanvura"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:dwagsanvura@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an email" /></a>
 </p>
 
 ---
 
 ## About me
 
-I'm a **final-year Bachelor of Computing student at Belgium Campus iTversity**, specialising in Software Engineering. I enjoy building useful digital products, from web applications and automation to predictive modelling and AI-assisted systems.
+I'm a **final-year Bachelor of Computing student at Belgium Campus iTversity**, specialising in Software Engineering. I enjoy turning practical problems into clear, usable software, and exploring how web development, data, and AI can work together.
 
-I focus on writing understandable code, documenting decisions, testing important behaviour, and being clear about what is complete and what is still in progress.
+I value readable code, useful documentation, thoughtful testing, teamwork, and honest reporting of what is complete versus what still needs work.
 
-- **Interests:** full-stack development, AI workflows, API design, and data-driven applications.
-- **Working style:** curious, practical, collaborative, and open to feedback.
-- **Career goal:** contribute to an engineering team and help deliver software that solves real problems.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>What I work on</h3>
+      <ul>
+        <li>Full-stack web applications and APIs</li>
+        <li>Python data analysis and visualisation</li>
+        <li>Machine-learning experiments and forecasting</li>
+        <li>AI-assisted tools and workflow automation</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>How I work</h3>
+      <ul>
+        <li>Break problems into manageable tasks</li>
+        <li>Keep code understandable and maintainable</li>
+        <li>Test important behaviour and learn from feedback</li>
+        <li>Document setup, limitations, and next steps</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
-### [Foreman OS](https://github.com/Don-Sanvura/Foreman-OS)
-A multi-business AI agent operating-system concept exploring specialised agents, shared workflows, and human approval.
-  
-**Focus:** AI agents, workflow orchestration, API design, permissions, and human-in-the-loop controls.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/Foreman-OS">Foreman OS</a></h3>
+      <p>A multi-business AI agent operating-system concept exploring how specialised assistants can support business workflows with human oversight.</p>
+      <p><strong>Focus:</strong> React, Vite, Express, API design, agent workflows, and permission-aware actions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/Weather_Forcasting.github.io">Weather Prediction</a></h3>
+      <p>A machine-learning project exploring weather-related prediction using data preparation, model building, and evaluation.</p>
+      <p><strong>Focus:</strong> Python, Pandas, scikit-learn, and Flask.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/WildWatch">BC WildWatch</a></h3>
+      <p>A campus wildlife reporting concept intended to support community awareness and structured hazard reporting.</p>
+      <p><strong>Focus:</strong> web application design, reporting workflows, and monitoring.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/Sales_Forecasting">Sales Forecasting</a></h3>
+      <p>A predictive analytics project using historical sales data to explore trends and establish a regression baseline for future demand.</p>
+      <p><strong>Focus:</strong> Python, Pandas, NumPy, and scikit-learn.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/Campaign-Performance-Analysis">Campaign Performance Analysis</a></h3>
+      <p>An Excel case study comparing campaign messages and channels to identify patterns in sales and new-customer conversion.</p>
+      <p><strong>Focus:</strong> Excel, pivot tables, charts, and business insights.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Don-Sanvura/Data-Visualization-using-Python-master">Python Data Visualisation</a></h3>
+      <p>A collection of notebooks and examples exploring patterns, distributions, and relationships in datasets.</p>
+      <p><strong>Focus:</strong> Python, Jupyter, Pandas, Matplotlib, and Seaborn.</p>
+    </td>
+  </tr>
+</table>
 
-### [Weather Prediction](https://github.com/Don-Sanvura/Weather_Forcasting.github.io)
-A machine-learning project exploring weather-related regression and classification using atmospheric observations.
-
-**Focus:** Python, Pandas, scikit-learn, Flask, and model evaluation.
-
-### [BC WildWatch](https://github.com/Don-Sanvura/WildWatch)
-A campus wildlife hazard reporting project concept focused on community reporting and monitoring workflows.
-
-**Focus:** web applications, reporting workflows, application design, and analytics.
-
-### [Sales Forecasting](https://github.com/Don-Sanvura/Sales_Forecasting)
-A predictive analytics project using historical sales data and a linear-regression baseline to explore future demand.
-
-**Focus:** Python, Pandas, NumPy, scikit-learn, and forecasting.
-
-### [Campaign Performance Analysis](https://github.com/Don-Sanvura/Campaign-Performance-Analysis)
-An Excel case study comparing campaign messages and channels to identify patterns in sales and new-customer conversion.
-
-**Focus:** Excel, pivot tables, charts, and business insights.
-
-### [Python Data Visualisation](https://github.com/Don-Sanvura/Data-Visualization-using-Python-master)
-A collection of notebooks and examples exploring patterns, distributions, and relationships in data.
-
-**Focus:** Python, Jupyter Notebook, Pandas, Matplotlib, and Seaborn.
+*Project descriptions summarise each repository's intended focus. Open the linked repository for its current code, setup instructions, and implementation status.*
 
 ## Technology toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,cs,cpp,git,github,vscode&amp;perline=7" alt="Programming languages and developer tools" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,cs,cpp,git,github,vscode&perline=7" alt="Technology icons for languages, frameworks, and developer tools" />
 </p>
+
+<table>
+  <tr>
+    <th align="left">Area</th>
+    <th align="left">Tools and technologies</th>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td>Python, JavaScript, TypeScript, C#, C++, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><strong>Web development</strong></td>
+    <td>React, Node.js, Express, REST API concepts</td>
+  </tr>
+  <tr>
+    <td><strong>Data and machine learning</strong></td>
+    <td>Pandas, NumPy, scikit-learn, Jupyter Notebook, Matplotlib, Seaborn</td>
+  </tr>
+  <tr>
+    <td><strong>Tools and workflow</strong></td>
+    <td>Git, GitHub, Visual Studio Code, testing, technical documentation</td>
+  </tr>
+</table>
+
+*This list reflects technologies used or explored across projects; the depth of implementation varies by repository.*
+
+## GitHub overview
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data-Pandas%20%7C%20NumPy-150458?style=flat-square" alt="Pandas and NumPy" />
-  <img src="https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/Visualisation-Matplotlib%20%7C%20Seaborn-0F766E?style=flat-square" alt="Matplotlib and Seaborn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages across public repositories" height="170" />
 </p>
 
-*These are technologies I have used or explored across my projects. Each repository describes its own implementation and current status.*
+## My engineering approach
 
-## GitHub activity
+1. **Understand the problem** — clarify the users, expected outcome, and constraints.
+2. **Plan the solution** — split the work into small, testable tasks.
+3. **Build and verify** — implement incrementally and check important behaviour.
+4. **Improve with feedback** — refine usability, reliability, and maintainability.
+5. **Document honestly** — explain how to run the project and identify known limitations.
+
+## Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub profile statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=6" alt="Most-used languages" height="170" />
+  <a href="https://don-sanvura.github.io/MrSanvura.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/don-sanvura">LinkedIn</a> ·
+  <a href="mailto:dwagsanvura@gmail.com">Email</a>
 </p>
+
+<p align="center"><em>Building with purpose. Improving with every iteration.</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:22d3ee,50:0d9488,100:0f172a&amp;height=100&amp;section=footer" alt="Animated footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d9488,100:101827&height=100&section=footer" alt="Animated teal and navy footer" width="100%" />
 </p>
-
-## How I approach projects
-
-- **Understand the problem:** identify users, goals, and constraints.
-- **Build in small steps:** keep features manageable and code readable.
-- **Test and improve:** check key behaviour and respond to feedback.
-- **Document honestly:** explain setup, design choices, limitations, and next steps.
-
-## Connect with me
-
-- **Portfolio:** [don-sanvura.github.io/MrSanvura.github.io](https://don-sanvura.github.io/MrSanvura.github.io/)
-- **LinkedIn:** [linkedin.com/in/don-sanvura](https://www.linkedin.com/in/don-sanvura)
-- **Email:** [dwagsanvura@gmail.com](mailto:dwagsanvura@gmail.com)
-
-<p align="center"><i>Building with purpose. Improving with every iteration.</i></p>
 
 <!--
-The animated images and statistic cards are provided by external services.
-If one provider is temporarily unavailable, the rest of this README remains usable.
+Visuals and statistics are loaded from third-party services. If a provider is unavailable,
+the profile content and repository links remain readable.
 -->
