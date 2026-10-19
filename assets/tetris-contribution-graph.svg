@@ -2181,15 +2181,21 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="768" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.63s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.64s" dur="0.4s" fill="freeze" calcMode="spline"
+          keySplines="0.2 0.8 0.2 1" />
+      </rect>
+      <rect x="783" y="-12" width="12" height="12" rx="2"
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        <animate attributeName="y" from="-12" to="18"
+          begin="3.65s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
 </svg>
