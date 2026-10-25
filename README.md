@@ -204,7 +204,7 @@ the profile content and repository links remain readable.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Don-Sanvura&style=for-the-badge&color=0f766e&label=PROFILE+VISITS" alt="Profile visit counter" />
   <img src="https://img.shields.io/github/followers/Don-Sanvura?style=for-the-badge&logo=github&label=FOLLOWERS&color=0f766e" alt="GitHub followers count" />
-  <img src="https://img.shields.io/github/stars/Don-Sanvura?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=0f766e" alt="GitHub stars count" />
+  <img src="https://img.shields.io/github/stars/Don-Sanvura/Foreman-OS?style=for-the-badge&logo=github&label=FOREMAN-OS+STARS&color=0f766e" alt="Foreman OS repository stars" />
 </p>
 
 ## A thought to build by
