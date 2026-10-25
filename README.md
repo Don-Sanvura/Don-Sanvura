@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:101827,55:0f766e,100:22d3ee&height=210&section=header&text=Don%20Sanvura&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="Navy and teal animated profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,35:0f766e,70:22d3ee,100:071a2b&height=230&section=header&text=Don%20Sanvura&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%7C%20BUILDING%20WITH%20PURPOSE&descAlignY=58&descSize=14" alt="Animated deep navy and turquoise water-wave profile header" width="100%" />
 </p>
 
 <p align="center">
@@ -172,7 +172,7 @@ I aim to pair curiosity with disciplined engineering: understand the problem, te
 <p align="center"><em>Building with purpose. Improving with every iteration.</em></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:0d9488,100:101827&height=100&section=footer" alt="Animated teal and navy footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:071a2b,30:0d9488,65:22d3ee,100:071a2b&height=140&section=footer&animation=fadeIn" alt="Animated turquoise water-wave footer" width="100%" />
 </p>
 
 <!--
@@ -188,11 +188,14 @@ the profile content and repository links remain readable.
 ## The contribution universe
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Don-Sanvura&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile achievement trophies" width="100%" />
+  <a href="https://github.com/Don-Sanvura?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Public%20Repositories-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Browse public repositories" /></a>
+  <a href="https://github.com/Don-Sanvura?tab=stars"><img src="https://img.shields.io/badge/GitHub-Starred%20Projects-22d3ee?style=for-the-badge&logo=github&logoColor=071a2b" alt="Browse starred projects" /></a>
+  <a href="https://github.com/Don-Sanvura?tab=followers"><img src="https://img.shields.io/badge/GitHub-Community-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub followers" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Don-Sanvura&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/Don-Sanvura?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-101827?style=for-the-badge&logo=github&logoColor=22d3ee" alt="Explore repositories" /></a>
+  <a href="https://github.com/Don-Sanvura/Don-Sanvura/commits/main/"><img src="https://img.shields.io/badge/View-Commit%20History-0f766e?style=for-the-badge&logo=git&logoColor=white" alt="View commit history" /></a>
 </p>
 
 ## A little motion in the matrix
