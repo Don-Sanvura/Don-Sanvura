@@ -179,3 +179,42 @@ I aim to pair curiosity with disciplined engineering: understand the problem, te
 Visuals and statistics are loaded from third-party services. If a provider is unavailable,
 the profile content and repository links remain readable.
 -->
+
+
+<!-- Add-on visual section: original README content above is preserved. -->
+
+---
+
+## The contribution universe
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Don-Sanvura&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub profile achievement trophies" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Don-Sanvura&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+</p>
+
+## A little motion in the matrix
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Don-Sanvura/Don-Sanvura/output/github-snake-dark.svg" alt="Animated snake moving across the GitHub contribution grid" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Don-Sanvura&style=for-the-badge&color=0f766e&label=PROFILE+VISITS" alt="Profile visit counter" />
+  <img src="https://img.shields.io/github/followers/Don-Sanvura?style=for-the-badge&logo=github&label=FOLLOWERS&color=0f766e" alt="GitHub followers count" />
+  <img src="https://img.shields.io/github/stars/Don-Sanvura?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=STARS&color=0f766e" alt="GitHub stars count" />
+</p>
+
+## A thought to build by
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="A rotating developer quote" />
+</p>
+
+<p align="center">
+  <strong>Curiosity → Experiments → Feedback → Better software</strong>
+  <br />
+  <sub>Every contribution is a chance to make the next version better.</sub>
+</p>
