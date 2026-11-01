@@ -208,9 +208,15 @@ the profile content and repository links remain readable.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Don-Sanvura&style=for-the-badge&color=0f766e&label=PROFILE+VISITS" alt="Profile visit counter" />
-  <img src="https://img.shields.io/github/followers/Don-Sanvura?style=for-the-badge&logo=github&label=FOLLOWERS&color=0f766e" alt="GitHub followers count" />
-  <img src="https://img.shields.io/github/stars/Don-Sanvura/Foreman-OS?style=for-the-badge&logo=github&label=FOREMAN-OS+STARS&color=0f766e" alt="Foreman OS repository stars" />
+  <a href="https://github.com/Don-Sanvura">
+    <img src="https://komarev.com/ghpvc/?username=Don-Sanvura&style=for-the-badge&color=0f766e&label=PROFILE+VISITS" alt="Profile visits" />
+  </a>
+  <a href="https://github.com/Don-Sanvura?tab=followers">
+    <img src="https://img.shields.io/github/followers/Don-Sanvura?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=white&color=0f766e" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Don-Sanvura/Foreman-OS">
+    <img src="https://img.shields.io/badge/FOREMAN--OS-PRIVATE%20PROJECT-0f766e?style=for-the-badge&logo=github&logoColor=white" alt="Foreman OS private project" />
+  </a>
 </p>
 
 ## A thought to build by
