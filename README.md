@@ -130,8 +130,11 @@ I aim to pair curiosity with disciplined engineering: understand the problem, te
 ## GitHub overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Don-Sanvura&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Don-Sanvura&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most-used languages across public repositories" height="170" />
+  <img src="https://raw.githubusercontent.com/Don-Sanvura/Don-Sanvura/main/assets/language-stats.svg" alt="Automatically updated most-used programming languages across public repositories" width="100%" />
+</p>
+
+<p align="center">
+  <sub>Updated daily by GitHub Actions. The chart analyses public, non-fork repositories and adapts as repositories and language usage change.</sub>
 </p>
 
 ## What I bring to a team
