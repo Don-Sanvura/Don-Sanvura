@@ -21,7 +21,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="3" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="0.03s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -33,7 +33,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="3" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="0.05s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -63,19 +63,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="18" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="0.1s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="18" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="0.11s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="18" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="0.12s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -165,13 +165,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="48" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="0.27s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="63" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="0.28s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -207,13 +207,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="63" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="0.34s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="78" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="0.35000000000000003s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -453,13 +453,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="153" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="0.75s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="153" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="0.76s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -495,13 +495,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="168" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="0.8200000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="168" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="0.8300000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -561,7 +561,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="198" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="0.93s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -603,19 +603,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="213" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="213" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.01s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="213" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.02s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -651,13 +651,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="228" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.08s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="228" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.09s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -723,19 +723,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="258" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.2s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="258" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.21s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="258" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.22s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -747,7 +747,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="258" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.24s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -765,19 +765,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="273" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.27s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="273" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.28s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="273" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.29s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -789,7 +789,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="273" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.31s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -807,37 +807,37 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.34s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.35s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.36s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.37s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.3800000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="288" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.3900000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -849,7 +849,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="303" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.41s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -861,25 +861,25 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="303" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.43s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="303" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.44s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="303" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.45s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="303" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.46s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -891,7 +891,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="318" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.48s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -921,7 +921,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="318" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.53s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -951,13 +951,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="333" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.58s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="333" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.59s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -969,43 +969,43 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="1.61s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.62s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.6300000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.6400000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="1.6500000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="1.6600000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="348" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.67s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1017,13 +1017,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="363" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.69s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="363" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.7s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1047,31 +1047,31 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="363" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.74s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="378" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="1.75s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="378" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.76s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="378" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="1.77s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="378" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.78s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1089,7 +1089,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="378" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.81s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1113,7 +1113,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="393" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.85s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1131,19 +1131,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="393" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.8800000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="408" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="1.8900000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="408" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="1.9000000000000001s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1155,7 +1155,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="408" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="1.92s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1173,13 +1173,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="408" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="1.95s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="423" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="1.96s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1215,7 +1215,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="423" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="2.02s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1281,7 +1281,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="453" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.13s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1293,7 +1293,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="453" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="2.15s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1317,13 +1317,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="468" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.19s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="468" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.2s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1335,7 +1335,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="468" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="2.22s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1347,7 +1347,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="483" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.24s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1359,13 +1359,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="483" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.2600000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="483" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.27s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1389,7 +1389,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="498" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.31s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1407,13 +1407,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="498" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.34s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="498" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="2.35s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1455,7 +1455,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="513" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="2.42s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1491,7 +1491,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="528" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.48s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1551,13 +1551,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="543" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="2.58s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="558" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.59s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1593,13 +1593,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="558" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="2.65s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="573" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.66s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1611,13 +1611,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="573" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.68s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="573" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.69s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1653,13 +1653,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="588" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.75s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="588" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.7600000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1689,7 +1689,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="603" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="2.81s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1701,55 +1701,55 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="603" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.83s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="603" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="2.84s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="603" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="2.85s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="603" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="2.86s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.87s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="2.88s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.89s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.9s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="2.91s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1761,13 +1761,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="618" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="2.93s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="633" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="2.94s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1779,25 +1779,25 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="633" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="2.96s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="633" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="2.97s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="633" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="2.98s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="633" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="2.99s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1809,19 +1809,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.0100000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="3.02s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="3.0300000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1833,25 +1833,25 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="3.0500000000000003s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="3.06s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="648" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.0700000000000003s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="663" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.08s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1869,13 +1869,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="663" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.11s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="663" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="3.12s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1887,13 +1887,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="663" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.14s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="678" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.15s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1911,31 +1911,31 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="678" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.18s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="678" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="3.19s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="678" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="78"
           begin="3.2s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="678" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.21s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="693" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.22s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1953,7 +1953,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="693" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.25s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1971,7 +1971,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="693" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.2800000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -1989,13 +1989,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="708" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="3.31s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="708" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.3200000000000003s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2025,13 +2025,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="723" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="3.37s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="723" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="33"
           begin="3.38s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2061,13 +2061,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="738" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#26A641" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.43s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="738" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="3.44s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2079,13 +2079,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="738" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#0E4429" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.46s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="738" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="3.47s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2097,19 +2097,19 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="738" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.49s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="753" y="-12" width="12" height="12" rx="2"
-        fill="#26A641" stroke="#0D1117" stroke-width="1">
+        fill="#39D353" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.5s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="753" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#006D32" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="3.5100000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2121,13 +2121,13 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="753" y="-12" width="12" height="12" rx="2"
-        fill="#0E4429" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="48"
           begin="3.5300000000000002s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="753" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="63"
           begin="3.54s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2139,7 +2139,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="753" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="93"
           begin="3.56s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2151,7 +2151,7 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="768" y="-12" width="12" height="12" rx="2"
-        fill="#006D32" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="18"
           begin="3.58s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
@@ -2187,45 +2187,9 @@
           keySplines="0.2 0.8 0.2 1" />
       </rect>
       <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#39D353" stroke="#0D1117" stroke-width="1">
+        fill="#161B22" stroke="#0D1117" stroke-width="1">
         <animate attributeName="y" from="-12" to="3"
           begin="3.64s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="18"
-          begin="3.65s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="33"
-          begin="3.66s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="48"
-          begin="3.67s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="63"
-          begin="3.68s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="78"
-          begin="3.69s" dur="0.4s" fill="freeze" calcMode="spline"
-          keySplines="0.2 0.8 0.2 1" />
-      </rect>
-      <rect x="783" y="-12" width="12" height="12" rx="2"
-        fill="#161B22" stroke="#0D1117" stroke-width="1">
-        <animate attributeName="y" from="-12" to="93"
-          begin="3.7s" dur="0.4s" fill="freeze" calcMode="spline"
           keySplines="0.2 0.8 0.2 1" />
       </rect>
 </svg>
